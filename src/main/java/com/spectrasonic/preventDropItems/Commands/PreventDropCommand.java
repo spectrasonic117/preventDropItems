@@ -11,6 +11,7 @@ import org.bukkit.entity.Player;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("all")
 public class PreventDropCommand implements CommandExecutor, TabCompleter {
 
     private final Main plugin;

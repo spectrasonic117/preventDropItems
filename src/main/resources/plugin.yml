@@ -1,7 +1,7 @@
 name: preventDropItems
-version: '1.0.0'
+version: '1.0.0-1.20.4'
 main: com.spectrasonic.preventDropItems.Main
-api-version: '1.21'
+api-version: '1.20'
 prefix: PreventDropItems
 authors: [ Spectrasonic ]
 description: Prevents player item drop
