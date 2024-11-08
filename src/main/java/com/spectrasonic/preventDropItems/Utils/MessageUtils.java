@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public final class MessageUtils {
 
     public static final String DIVIDER = "----------------------------------------";
-    public static final String PREFIX = "&b[&cPreventDropItems&b]&r ";
+    public static final String PREFIX = "&7[&ePreventDropItems&7] &6»&r ";
 
     private MessageUtils() {
         // Private constructor to prevent instantiation
